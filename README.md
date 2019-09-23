@@ -5,5 +5,5 @@
 ###### Keywords: Deep Learning, Encoder Decoder model, Machine Translation, LSTM, GRU 
 
 - Implemented Encoder and Decoder Model for Machine Translation
-- Other sequential architectures are also explored and their performance was compared.
+- Other sequential architectures (RNN, Bidirectional RNN and RNN with embedding vectors) are also explored and their performance was compared.
 
